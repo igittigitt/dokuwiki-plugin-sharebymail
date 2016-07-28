@@ -1,0 +1,7 @@
+base   sharebymail
+author Oliver Geisen
+email  oliver@denkdose.de
+date   2016-07-28
+name   sharebymail plugin
+desc   Create email with system mailclient to send link of current page to other users
+url    https://github.com/igittigitt/dokuwiki_sharebymail
